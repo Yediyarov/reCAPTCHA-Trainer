@@ -1,0 +1,9 @@
+.capthca-img{
+    padding-bottom: 10px;
+    padding-top: 20px;
+    width: 100%;
+}
+
+.captcha-answer-input{
+    text-transform: uppercase;
+}
